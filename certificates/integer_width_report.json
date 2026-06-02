@@ -1,0 +1,8 @@
+{
+  "digit_sequence": "1123581321",
+  "max_absolute_final_bit_length": 31,
+  "max_absolute_value": 1123581321,
+  "max_value": 1123581321,
+  "min_value": -123581320,
+  "python_arbitrary_precision_required": true
+}

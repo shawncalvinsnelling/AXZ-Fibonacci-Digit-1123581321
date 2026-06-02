@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "AXZ Fibonacci Digit No-Division Ordered Arithmetic Gap"
+message: "If you use this finite certificate, please cite it."
+type: software
+authors:
+  - family-names: Snelling
+    given-names: Shawn Calvin
+repository-code: "https://github.com/shawncalvinsnelling/AXZ-Fibonacci-Digit-1123581321"
+version: "1.0.0"
+date-released: "2026-06-02"
+license: MIT

@@ -1,0 +1,30 @@
+{
+  "boundary_witness": "7972 = 1 - ((1 + 2) * (((3 - (5 + 81)) * 32) - 1))",
+  "certificate": {
+    "all_interval_unique_values_generated": 153206,
+    "consecutive_positive_integers_from_1": 7972,
+    "first_missing_positive_integer": 7973,
+    "max_absolute_final_bit_length": 31,
+    "max_value": 1123581321,
+    "min_value": -123581320,
+    "negative_integer_values_generated": 67066,
+    "nonpositive_integer_values_generated": 67067,
+    "positive_integer_values_generated": 86139,
+    "possible_cut_patterns": 512,
+    "unique_integer_values_generated": 153206,
+    "zero_present": true
+  },
+  "challenge": "AXZ Fibonacci Digit No-Division Ordered Arithmetic Gap",
+  "challenge_number": 4,
+  "digit_sequence": "1123581321",
+  "hashes": {
+    "all_interval_values_sha256": "29e1c35a2e8ad9faf16e872d236ad8bc74ae69d6ffa26a1d06d2dd230a955785",
+    "all_values_sha256": "29e1c35a2e8ad9faf16e872d236ad8bc74ae69d6ffa26a1d06d2dd230a955785",
+    "negative_values_sha256": "23d285881832cc2ccd5d9429efe03138ffdbdd45e87f63d34491a05a86eab025",
+    "nonpositive_values_sha256": "0782c6d92e42b4010fac83c9a6f36706b280b279a8c1912791d4c6fb8fa7a508",
+    "positive_values_sha256": "10d0ce331835c2df349068385db42a8f76b9a03ef69ae9269895bb8262b99d80"
+  },
+  "repository": "AXZ-Fibonacci-Digit-1123581321",
+  "source_note": "Fibonacci blocks 1,1,2,3,5,8,13,21 flattened into 1123581321.",
+  "truth_label": "CERTIFIED_FINITE_EXACT_INTEGER_RESULT_UNDER_STATED_RULES"
+}
